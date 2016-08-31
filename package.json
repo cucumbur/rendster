@@ -1,0 +1,26 @@
+{
+  "name": "rendster",
+  "version": "0.0.1",
+  "description": "A 3D renderer built with Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cucumbur/rendster.git"
+  },
+  "keywords": [
+    "renderer",
+    "3d"
+  ],
+  "author": "Rick Sheahan (rssheah2@illinois.edu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cucumbur/rendster/issues"
+  },
+  "homepage": "https://github.com/cucumbur/rendster#readme",
+  "dependencies": {
+    "jimp": "^0.2.27"
+  }
+}
